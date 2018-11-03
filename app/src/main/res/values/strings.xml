@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WinterCoding</string>
+    <string name="intro_text">INTRO</string>
+    <string name="Monthly">Monthly</string>
+    <string name="Weekly">Weekly</string>
+    <string name="Daily">Daily</string>
+    <string name="previous">이전</string>
+    <string name="next">다음</string>
+    <string name="schedule_input_hint">Input Schedule</string>
+    <string name="schedule_input_button">추가</string>
+    <string name="schedule_delete_button">삭제</string>
+</resources>
